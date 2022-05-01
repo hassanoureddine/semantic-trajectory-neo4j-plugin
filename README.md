@@ -1,14 +1,12 @@
-= Neo4j Semantic Trajectories Multiple Views Extraction Procedures
-:branch: 4.1
-:root: https://github.com/neo4j-examples/neo4j-procedure-template/blob/{branch}/src
+# Neo4j Semantic Trajectories Multiple Views Extraction Procedures
 
-This project implements the multiple views extraction mechanisms from indoor-outdoor semantic trajectories generated in [this repository](https://github.com/hassanoureddine/offline-semantic-trajectory).
+This project implements the multiple views extraction from indoor-outdoor semantic trajectories generated in [this repository](https://github.com/hassanoureddine/offline-semantic-trajectory).
 
 To try this out, simply clone this repository and have a look at the source code.
 
-See link:https://github.com/neo4j-examples/neo4j-procedure-template[`Neo4j Procedure Template`] for other template example.
+See [`Neo4j Procedure Template`](https://github.com/neo4j-examples/neo4j-procedure-template) for other template example.
 
-== Building
+## Building
 
 This project uses maven, to build a jar-file with the procedure in this
 project, simply package the project with maven:
